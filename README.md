@@ -1,4 +1,4 @@
-#Grand Wizard Tournament
+Grand Wizard Tournament
 
 A magical roguelike that teaches programming concepts through visual spell crafting
 
