@@ -1,5 +1,5 @@
 // GWTTypes.h
-// Contains common enums and structs used throughout the Grand Wizard Tournament game
+// Contains common enums and structs used throughout the Grand Wizard Tournament 
 
 #pragma once
 
