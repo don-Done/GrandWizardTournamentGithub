@@ -60,7 +60,7 @@ This project is currently in active development. The core spell system and chara
 
 ## 🎮 Gameplay Systems
 
-### Spell-Crafting System: "The Grimoire"
+### 🪄 Spell-Crafting System: "The Grimoire"
 
 Players create spells by connecting different types of nodes:
 - **Magic Nodes**: Core spell functionality (fire, ice, lightning)
@@ -70,7 +70,7 @@ Players create spells by connecting different types of nodes:
 - **Variable Nodes**: Data storage and manipulation
 - **Flow Nodes**: Loops and branches for repetition and control flow
 
-### Character System
+### 👤 Character System
 
 Players can customize their wizard through equipment and progression:
 - **Stats**: Health, mana, casting speed, movement speed
@@ -79,8 +79,8 @@ Players can customize their wizard through equipment and progression:
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under Creative Commons Attribution-NonCommercial 4.0 International License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
