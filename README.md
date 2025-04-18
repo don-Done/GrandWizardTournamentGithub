@@ -61,26 +61,27 @@ This project is currently in active development.
 ## 🎮 Gameplay Systems
 
 ### 🪄 Spell-Crafting System: "The Grimoire"
+### Foundational Principles
 
-Players create spells by connecting different types of nodes:
-- **Magic Nodes**: Core spell functionality (fire, ice, lightning)
-- **Trigger Nodes**: Event-based triggers (on cast, on hit, timer-based)
-- **Effect Nodes**: Actions produced by spells (damage, healing, teleportation)
-- **Condition Nodes**: Logic control (if statements, health checks)
-- **Variable Nodes**: Data storage and manipulation
-- **Flow Nodes**: Loops and branches for repetition and control flow
+1. **Node Categories**: All spell components fall into six fundamental types that map to programming concepts:
+   - **Magic Nodes**: Core spell functionality (Primary functions)
+   - **Trigger Nodes**: Event detection (Event handlers)
+   - **Effect Nodes**: Result production (Output/actions)
+   - **Condition Nodes**: Branch control (Conditional logic)
+   - **Variable Nodes**: Data management (Variables/state)
+   - **Flow Nodes**: Execution control (Loops/control flow)
 
-### 👤 Character System
+2. **Connection System**: Nodes connect through a directed graph system with:
+   - **Input Ports**: Accept incoming connections with defined data types
+   - **Output Ports**: Send signals or data to connected nodes
+   - **Port Compatibility**: Enforces logical connection rules between node types
 
-Players can customize their wizard through equipment and progression:
-- **Stats**: Health, mana, casting speed, movement speed
-- **Equipment Slots**: Wand, hat, robe, and accessory slots that modify capabilities
-- **Progression**: Gain experience to unlock new spell components and abilities
+3. **Execution Model**: Spells execute through a signal propagation system:
+   - Signal flow begins at Trigger nodes
+   - Travels through the connected node graph
+   - Follows conditional branches based on runtime evaluation
+   - Allows for parallel execution paths
 
 ## 📜 License
 
 This project is licensed under Creative Commons Attribution-NonCommercial 4.0 International License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
