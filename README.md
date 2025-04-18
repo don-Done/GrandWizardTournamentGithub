@@ -50,7 +50,7 @@ The game is built with a modular architecture using Unreal Engine and C++:
 
 ## 🚧 Development Status
 
-This project is currently in active development. The core spell system and character mechanics are implemented, with ongoing work on level generation, enemy AI, and the educational tracking system.
+This project is currently in active development and partially includes The core spell system, character mechanics,  level generation, enemy AI, and the educational tracking system.
 
 ## 🧪 Technologies Used
 
