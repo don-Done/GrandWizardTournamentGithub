@@ -1,70 +1,33 @@
-Grand Wizard Tournament
+# Grand Wizard Tournament
 
-A magical roguelike that teaches programming concepts through visual spell crafting
+An educational roguelike game that teaches programming concepts through an engaging magical combat system. Players navigate a procedurally generated labyrinth, fighting waves of enemies while learning fundamental programming concepts through an intuitive visual spell-crafting system.
 
-📖 Description
+## Overview
 
-Grand Wizard Tournament is an educational game designed to teach programming concepts to students aged 12+ through engaging gameplay. Players learn by creating and casting spells in a procedurally generated 3D labyrinth, engaging in magical combat while mastering concepts like variables, control structures, and functions.
-In this game, you'll navigate a shifting labyrinth, collect spell components, craft powerful spells using a visual programming interface, and battle against increasingly challenging enemies across 10 waves. All while learning fundamental programming skills in an intuitive, engaging way.
+Grand Wizard Tournament blends entertainment with education, allowing players to:
+- Create custom magical abilities through a visual programming interface
+- Navigate procedurally generated labyrinth structures
+- Battle diverse enemies with adaptive AI
+- Collect and craft spell components
+- Progress through increasingly challenging waves
 
-🌟 Key Features
+## Educational Concept
 
-Visual Spell-Crafting System: Create spells using an intuitive drag-and-drop node-based programming interface inspired by Unreal Engine Blueprints
-Procedurally Generated Levels: Navigate a 3x3x3 magical labyrinth that changes with each playthrough
-Educational Progression: Learn key programming concepts (variables, conditionals, loops, etc.) through gameplay
-Various Room Types: Explore combat, treasure, shop, puzzle, and boss rooms
-Equipment & Items: Collect wands, hats, robes, and consumables to customize your wizard
-Enemy AI: Battle against intelligent enemies with unique abilities and behaviors
-Educational Analytics: Track your mastery of programming concepts as you play
+The game teaches key programming concepts including:
+- Sequential logic through spell component execution
+- Conditional statements using IF-THEN structures
+- Variables and data management
+- Loops for sustained spell effects
+- Functions through reusable spell components
 
-🧙‍♂️ Educational Value
+## Development Status
 
-Grand Wizard Tournament teaches core programming concepts in an intuitive way:
-Sequential Logic: Connect spell nodes in sequence
-Conditional Statements: Use condition nodes for IF-THEN structures
-Variables & Data: Store and manipulate spell properties
-Loops: Create sustained or repeated spell effects
-Functions: Save and reuse spell combinations
+This project is currently in [development phase]. Please see the roadmap below for planned features and progress.
 
-🛠️ Technology
+## License
 
-Engine: Unreal Engine
-Language: C++
-Platform: Windows/Linux PC
+This project is licensed under Creative Commons Attribution-NonCommercial 4.0 International License - see the [LICENSE.md](LICENSE.md) file for details.
 
-🎮 How to Play
+## Contributing
 
-Navigation: Use WASD to move and mouse to look around
-Spell Casting: Press left mouse button to cast your active spell
-Spell Editor: Press E to open the spell editor
-Inventory: Press I to open your inventory
-Interact: Press F to interact with objects and NPCs
-
-Spell Editor Controls
-
-Drag nodes from the palette to the editor canvas
-Connect nodes by clicking and dragging from output to input ports
-Select nodes to view and edit their properties
-Save spells to your grimoire for later use
-
-🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-Fork the repository
-Create your feature branch (git checkout -b feature/amazing-feature)
-Commit your changes (git commit -m 'Add some amazing feature')
-Push to the branch (git push origin feature/amazing-feature)
-Open a Pull Request
-
-📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-👏 Acknowledgements
-
-Educational institutions and Professors who provided feedback
-Unreal Engine for providing the development platform
-
-📞 Contact
-
-email: wizwareworkshop@gmail.com
+Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
