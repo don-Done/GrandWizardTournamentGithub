@@ -1,6 +1,4 @@
-# Grand Wizard Tournament
-
-An educational roguelike game that teaches programming concepts through an engaging magical combat system
+# 🔮 Grand Wizard Tournament
 
 ## 📖 Description
 
@@ -50,7 +48,7 @@ The game is built with a modular architecture using Unreal Engine and C++:
 
 ## 🚧 Development Status
 
-This project is currently in early development and still needs to be adjusted and integrated into UE5:
+This project is currently in early development and still needs to be adjusted and integrated into UE5 architecture:
 
 ### Phase 1: Core Systems (Current)
 - Spell creation system
