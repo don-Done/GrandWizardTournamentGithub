@@ -27,4 +27,4 @@ No warranties are given. The license may not give you all of the permissions nec
 
 ## Attribution
 
-"Grand Wizard Tournament" by [Your Name or Organization]
+"Grand Wizard Tournament" by WizWare

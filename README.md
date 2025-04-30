@@ -1,12 +1,10 @@
-# Grand Wizard Tournament
-
-An educational roguelike game that teaches programming concepts through an engaging magical combat system
+# 🔮 Grand Wizard Tournament 🔮
 
 ## 📖 Description
 
 Grand Wizard Tournament is an innovative educational game that teaches programming concepts through the fantasy lens of spellcrafting. Players navigate a procedurally generated magical labyrinth, battling waves of enemies while learning fundamental programming concepts through a visual spell-creation system.
 
-In the world of Grand Wizard Tournament, the discovery of "Whispering Oracles" (a metaphor for AI tools) has made spellcasting too easy, with young wizards asking for spells without understanding the underlying principles. The Grand Wizard Council has created this tournament where Oracles don't function, forcing wizards to rely on their foundational knowledge.
+In the world of Grand Wizard Tournament, the discovery of "Whispering Oracles🔮" (a metaphor for AI tools) has made spellcasting too easy, with young wizards asking for spells without understanding the underlying principles. The Grand Wizard Council has created this tournament where Oracles don't function, forcing wizards to rely on their foundational knowledge.
 
 The game seamlessly integrates computational thinking, algorithmic reasoning, and programming principles into the gameplay mechanics. As players create increasingly complex spells, they naturally absorb these concepts in an engaging and entertaining environment.
 
@@ -50,7 +48,31 @@ The game is built with a modular architecture using Unreal Engine and C++:
 
 ## 🚧 Development Status
 
-This project is currently in active development.
+This project is currently in early development and still needs to be adjusted and integrated into UE5 architecture:
+
+### Phase 1: Core Systems (Current)
+- Spell creation system
+- Room generation
+- Basic combat
+- Educational tracking
+
+### Phase 2: Content Development
+- Enemy variety
+- Spell components
+- Tutorial system
+- Analytics integration
+
+### Phase 3: Polish
+- UI/UX refinement
+- Performance optimization
+- Educational testing
+- Balancing
+
+### Phase 4: Release Preparation
+- Beta testing
+- Educational validation
+- Marketing preparation
+- Distribution setup
 
 ## 🧪 Technologies Used
 
