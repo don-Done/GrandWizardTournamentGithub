@@ -1,4 +1,4 @@
-# 🔮 Grand Wizard Tournament
+# 🔮 Grand Wizard Tournament 🔮
 
 ## 📖 Description
 
