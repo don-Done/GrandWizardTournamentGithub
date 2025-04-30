@@ -50,7 +50,31 @@ The game is built with a modular architecture using Unreal Engine and C++:
 
 ## 🚧 Development Status
 
-This project is currently in active development.
+This project is currently in early development and still needs to be adjusted and integrated into UE5:
+
+### Phase 1: Core Systems (Current)
+- Spell creation system
+- Room generation
+- Basic combat
+- Educational tracking
+
+### Phase 2: Content Development
+- Enemy variety
+- Spell components
+- Tutorial system
+- Analytics integration
+
+### Phase 3: Polish
+- UI/UX refinement
+- Performance optimization
+- Educational testing
+- Balancing
+
+### Phase 4: Release Preparation
+- Beta testing
+- Educational validation
+- Marketing preparation
+- Distribution setup
 
 ## 🧪 Technologies Used
 
