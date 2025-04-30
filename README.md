@@ -4,7 +4,7 @@
 
 Grand Wizard Tournament is an innovative educational game that teaches programming concepts through the fantasy lens of spellcrafting. Players navigate a procedurally generated magical labyrinth, battling waves of enemies while learning fundamental programming concepts through a visual spell-creation system.
 
-In the world of Grand Wizard Tournament, the discovery of "Whispering Oracles" (a metaphor for AI tools) has made spellcasting too easy, with young wizards asking for spells without understanding the underlying principles. The Grand Wizard Council has created this tournament where Oracles don't function, forcing wizards to rely on their foundational knowledge.
+In the world of Grand Wizard Tournament, the discovery of "Whispering Oracles🔮" (a metaphor for AI tools) has made spellcasting too easy, with young wizards asking for spells without understanding the underlying principles. The Grand Wizard Council has created this tournament where Oracles don't function, forcing wizards to rely on their foundational knowledge.
 
 The game seamlessly integrates computational thinking, algorithmic reasoning, and programming principles into the gameplay mechanics. As players create increasingly complex spells, they naturally absorb these concepts in an engaging and entertaining environment.
 
